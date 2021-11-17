@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chromedriver": "^95.0.0",
+    "cucumber": "^7.0.0-rc.0",
+    "selenium-webdriver": "^4.0.0"
+  },
+  "name": "html-solo-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

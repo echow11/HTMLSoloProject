@@ -1,0 +1,41 @@
+.navInline
+{
+    display:inline-block;
+}
+
+a
+{
+    padding: 10px;
+}
+
+a:hover
+{
+    color: tomato;
+}
+
+.educationList
+{
+    color: blue;
+}
+
+#emailForm
+{
+    width: 200px;
+}
+
+.portfolioFooter
+{
+    background-color: grey;
+}
+
+#footerText
+{
+    text-align: center;
+    color: white;
+}
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
